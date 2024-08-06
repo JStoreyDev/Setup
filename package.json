@@ -1,0 +1,10 @@
+{
+    "name": "com.jasonstorey.setup",
+    "version":"1.0.0",
+    "displayName":"JS (Setup)",
+    "description":"Local Project Setup",
+    "author": {
+        "name":"Jason Storey",
+        "email":"jasonstoreyireland@gmail.com"
+    }
+}
